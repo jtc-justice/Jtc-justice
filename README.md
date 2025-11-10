@@ -1,8 +1,8 @@
 # Hi there, I'm Justice Nyarko 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-[![YouTube](https://img.shields.io/badge/YouTube-D40000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/your-channel)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
+[![YouTube](https://img.shields.io/badge/YouTube-D40000?style=for-the-badge&logo=youtube&logoColor=white)](https://[www.youtube.com/your-channel](https://www.youtube.com/@jtcrobotics)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justice.sk.nyarko@gmail.com)
 
 ---
 
