@@ -7,17 +7,18 @@ I'm an Full Stack Hardware Engineer and Educator with a passion for architecting
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justice.sk.nyarko@gmail.com)
 
 - Head of Training & Chief Flight Instructor at **Accra Technical University Drone Centre**
-- Experienced in **STM32, ESP32, Nucleo boards, and model-based design (Simulink)**
+- Experienced in **STM32, ESP32, ATmega**
 - Skilled in **CAD, 3D printing, PCB design, and IoT system integration**
-- Founder of **JT_Lab**, a drone innovation lab dedicated to research, training, and prototyping
-- Creator of **JTC Robotics** on YouTube — demystifying electronics and embedded systems for the next generation of African engineers.
+- Founder of **JT_Lab**, a Mechatronics innovation lab dedicated to R&D (Research and Development).
+- Founder of **JTC Robotics** 
+- Content Creator on YouTube:  **JTC-Robotics** - demystifying electronics and embedded systems for the next generation of African engineers.
 
 ---
 
 ## 🧰 Technical Toolkit
 
 **Programming:**  
-C, C++, Python (NumPy, OpenCV), MicroPython, MATLAB/Simulink  
+C, C++, Python, MicroPython, MATLAB/Simulink  
 
 **Microcontrollers:**  
 STM32 (ARM-Cortex), ESP32/8266 (Xtensa), Arduino (Atmega), Raspberry Pi  
@@ -29,7 +30,7 @@ I2C, SPI, UART, CAN (TWAI), WiFi, BLE, ESP-NOW
 Oscilloscope, Logic Analyzer, JTAG/SWD Debuggers (J-Link, ST-Link)  
 
 **Design & Fabrication:**  
-3D Modeling (SolidWorks, Fusion 360), PCB Design, System Integration  
+3D Modeling (SolidWorks, Fusion 360, Shapr3D), PCB Design 
 
 
 ---
@@ -79,29 +80,15 @@ Oscilloscope, Logic Analyzer, JTAG/SWD Debuggers (J-Link, ST-Link)
 
 ---
 
-### ☀️ 6. Solar Tracker
-![Solar Tracker](https://via.placeholder.com/400x200.png?text=Solar+Tracker)
-- Automated solar tracking system that adjusts panel orientation for maximum energy capture.  
-- Uses **embedded sensors and control algorithms** implemented on STM32.
-
-
----
-
-### 🧱 7. Curriculum & Mechanical Work
-- Designed **drone engineering and mechatronics curricula** for Ghana’s national Competency-Based Training (CBT) programs.  
-- Developed practical training modules and lab exercises for hands-on skill development.
-
-
----
-
-### ✈️ 9. Electromagnetism Training — Ghana Armed Forces
+### ✈️ 6. Electromagnetism Training — Ghana Armed Forces
 ![JT Lab](https://github.com/jtc-justice/Engineering_Projects_/blob/main/Military_Training.jpg)
 - Delivered comprehensive training on **Electromagnetism** to members of the **Ghana Armed Forces**, covering theory, field applications, and advanced concepts in electrical engineering.
 - As Head of Training & Chief Flight Instructor at **ATU Drone Centre**, I ensure safety, discipline, and excellence in drone operations.
 
 
 ---
-### ✈️ 9. Drone Flight Training
+
+### ✈️ 7. Drone Flight Training
 ![JT Lab](https://github.com/jtc-justice/Engineering_Projects_/blob/main/Drone_Training.jpg)
 - Translating complex aviation theory into **actionable drone flight training**.  
 - As Head of Training & Chief Flight Instructor at **ATU Drone Centre**, I ensure safety, discipline, and excellence in drone operations.
@@ -129,8 +116,8 @@ Oscilloscope, Logic Analyzer, JTAG/SWD Debuggers (J-Link, ST-Link)
 
 ---
 
-## 📊 GitHub Stats
-![Justice Nyarko GitHub Stats](https://github-readme-stats.vercel.app/api?username=jtc-justice&show_icons=true&theme=radical)
+<!--## 📊 GitHub Stats-->
+<!--![Justice Nyarko GitHub Stats](https://github-readme-stats.vercel.app/api?username=jtc-justice&show_icons=true&theme=radical)-->
 
 ---
 
