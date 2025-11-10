@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Justice Nyarko 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
