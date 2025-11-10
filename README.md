@@ -41,7 +41,7 @@ Oscilloscope, Logic Analyzer, JTAG/SWD Debuggers (J-Link, ST-Link)
 ![Drone Satellite](https://github.com/jtc-justice/Engineering_Projects_/blob/main/Drone_Satellite.jpg)
 
 - A mobile, low-cost system for **real-time urban pollution monitoring** using embedded sensors and onboard computing.  
-- Built on **STM32** with **sensor fusion** and wireless data telemetry.
+- Built on **STM32** with **sensor fusion** and wireless data telemetry (MQTT).
 
 
 ---
@@ -58,8 +58,8 @@ Oscilloscope, Logic Analyzer, JTAG/SWD Debuggers (J-Link, ST-Link)
 
 ### 🚦 3. Drone Traffic Light
 ![Drone Traffic Light](https://github.com/jtc-justice/Engineering_Projects_/blob/main/Drone_Traffic_light.jpg)
-- Smart aerial signaling system using drones for **dynamic traffic management and crowd control**.  
-- Embedded flight control and autonomous light sequencing.
+-Designed to be deployed during traffic light failures. 
+- The drone acts as a temporary aerial traffic signal, easing congestion and maintaining flow until ground systems are restored.
 
 
 ---
@@ -83,8 +83,6 @@ Oscilloscope, Logic Analyzer, JTAG/SWD Debuggers (J-Link, ST-Link)
 ### ✈️ 6. Electromagnetism Training — Ghana Armed Forces
 ![JT Lab](https://github.com/jtc-justice/Engineering_Projects_/blob/main/Military_Training.jpg)
 - Delivered comprehensive training on **Electromagnetism** to members of the **Ghana Armed Forces**, covering theory, field applications, and advanced concepts in electrical engineering.
-- As Head of Training & Chief Flight Instructor at **ATU Drone Centre**, I ensure safety, discipline, and excellence in drone operations.
-
 
 ---
 
@@ -101,11 +99,11 @@ Oscilloscope, Logic Analyzer, JTAG/SWD Debuggers (J-Link, ST-Link)
 
 
 ## 🏆 Achievements & Recognition
-- 🥉 **Bronze Medalist**, International Machine Learning & Big Data Competition – Russia (2023)  
-- 🇮🇹 **National Mechatronics Champion (2019)** – led to advanced industrial training in Italy  
+- 🥉 **Bronze Medalist**, International Machine Learning & Big Data Competition – Veliky Novgorod, Russia (2023)  
+- 🇮🇹 **National Mechatronics Champion (2019)** – led to advanced industrial training - Rozzano, Italy (2019)  
 - 🇬🇭 **Technical Consultant & Curriculum Developer**, Government of Ghana (CTVET)  
 - 👨‍🏫 **Head of Training & Chief Flight Instructor**, Accra Technical University Drone Centre  
-- 🇰🇷 Participated in **Drone & AI Training Program** – Korea Transportation Safety Authority (2024)
+- 🇰🇷 Participated in **Drone & AI Training Program** – Korea Transportation Safety Authority - Soeul, South Korea (2025)
 
 ---
 
