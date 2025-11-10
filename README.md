@@ -45,6 +45,7 @@ I am an Electrical/Electronic Engineer, embedded systems enthusiast, and drone t
 
 ### 1. Drone Satellite for Air Quality Monitoring
 ![Drone Satellite](https://github.com/jtc-justice/Engineering_Projects/blob/main/photo_2024-11-20_14-30-55.jpg)
+![Satellite](https://github.com/jtc-justice/Engineering_Projects/blob/main/IMG_2779.JPG)
 - Combines UAV with CubeSat-like modules for real-time air quality data.
 - Embedded STM32 systems with sensor fusion for stable flight and accurate data collection.
 
@@ -54,7 +55,9 @@ I am an Electrical/Electronic Engineer, embedded systems enthusiast, and drone t
 - Displays live camera feed and telemetry data.
 
 ### 3. Bot-Arm – Robotic Manipulator
-![Robotic Arm](https://via.placeholder.com/400x200.png?text=Bot-Arm)
+![Robotic Arm](https://github.com/jtc-justice/Engineering_Projects/blob/main/photo_13_2025-11-07_16-17-52.jpg)
+![](https://github.com/jtc-justice/Engineering_Projects/blob/main/photo_14_2025-11-07_16-17-52.jpg)
+
 - Automated robotic arm for pick-and-place operations.
 - Integrated embedded control using STM32 and sensors.
 
