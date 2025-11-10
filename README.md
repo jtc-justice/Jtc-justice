@@ -1,7 +1,7 @@
 # Hi there, I'm Justice Nyarko 👋
 
 
-[![YouTube](https://img.shields.io/badge/YouTube-D40000?style=for-the-badge&logo=youtube&logoColor=white)](https://[www.youtube.com/your-channel](https://www.youtube.com/@jtcrobotics)
+[![YouTube](https://img.shields.io/badge/YouTube-D40000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jtcrobotics)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justice.sk.nyarko@gmail.com)
 
 ---
@@ -59,7 +59,7 @@ I am an Electrical/Electronic Engineer, embedded systems enthusiast, and drone t
 - Integrated embedded control using STM32 and sensors.
 
 ### 4. Drone Traffic Light
-![Drone Traffic Light](https://via.placeholder.com/400x200.png?text=Drone+Traffic+Light)
+![Drone Traffic Light](https://github.com/jtc-justice/Engineering_Projects/blob/main/IMG_3624.JPG)
 - Smart aerial signaling system using drones for dynamic traffic management.
 
 ### 5. AI Lamp Project
