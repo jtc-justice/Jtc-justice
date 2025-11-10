@@ -31,6 +31,7 @@ Oscilloscope, Logic Analyzer, JTAG/SWD Debuggers (J-Link, ST-Link)
 **Design & Fabrication:**  
 3D Modeling (SolidWorks, Fusion 360), PCB Design, System Integration  
 
+
 ---
 
 ## 🚀 Highlighted Projects
@@ -41,6 +42,7 @@ Oscilloscope, Logic Analyzer, JTAG/SWD Debuggers (J-Link, ST-Link)
 - A mobile, low-cost system for **real-time urban pollution monitoring** using embedded sensors and onboard computing.  
 - Built on **STM32** with **sensor fusion** and wireless data telemetry.
 
+
 ---
 
 
@@ -50,12 +52,14 @@ Oscilloscope, Logic Analyzer, JTAG/SWD Debuggers (J-Link, ST-Link)
 - A **6-DOF robotic arm** for STEM education featuring inverse kinematics and custom controller firmware.  
 - Built with **3D printing**, **Arduino**, and **C++**.
 
+
 ---
 
 ### 🚦 3. Drone Traffic Light
 ![Drone Traffic Light](https://github.com/jtc-justice/Engineering_Projects_/blob/main/Drone_Traffic_light.jpg)
 - Smart aerial signaling system using drones for **dynamic traffic management and crowd control**.  
 - Embedded flight control and autonomous light sequencing.
+
 
 ---
 
@@ -64,12 +68,14 @@ Oscilloscope, Logic Analyzer, JTAG/SWD Debuggers (J-Link, ST-Link)
 - Interactive AI-driven lamp for adaptive lighting and automation.  
 - Integrated **voice control and proximity detection** for user comfort.
 
+
 ---
 
 ### 🏥 5. Medical Devices
 ![Medical Device](https://github.com/jtc-justice/Engineering_Projects_/blob/main/Medical_Devices.jpg)
 - **Portable blood warmer** and **electronic vaccine carrier** designed for reliable operation in low-resource settings.  
 - Focused on **energy efficiency, portability, and reliability**.
+
 
 ---
 
@@ -78,25 +84,28 @@ Oscilloscope, Logic Analyzer, JTAG/SWD Debuggers (J-Link, ST-Link)
 - Automated solar tracking system that adjusts panel orientation for maximum energy capture.  
 - Uses **embedded sensors and control algorithms** implemented on STM32.
 
+
 ---
 
 ### 🧱 7. Curriculum & Mechanical Work
 - Designed **drone engineering and mechatronics curricula** for Ghana’s national Competency-Based Training (CBT) programs.  
 - Developed practical training modules and lab exercises for hands-on skill development.
 
+
 ---
 
+### ✈️ 9. Electromagnetism Training — Ghana Armed Forces
+![JT Lab](https://github.com/jtc-justice/Engineering_Projects_/blob/main/Military_Training.jpg)
+- Delivered comprehensive training on **Electromagnetism** to members of the **Ghana Armed Forces**, covering theory, field applications, and advanced concepts in electrical engineering.
+- As Head of Training & Chief Flight Instructor at **ATU Drone Centre**, I ensure safety, discipline, and excellence in drone operations.
+
+
+---
 ### ✈️ 9. Drone Flight Training
 ![JT Lab](https://github.com/jtc-justice/Engineering_Projects_/blob/main/Drone_Training.jpg)
 - Translating complex aviation theory into **actionable drone flight training**.  
 - As Head of Training & Chief Flight Instructor at **ATU Drone Centre**, I ensure safety, discipline, and excellence in drone operations.
 
----
-
-### ✈️ 9. Electromagnetism Training — Ghana Armed Forces
-![JT Lab](https://github.com/jtc-justice/Engineering_Projects_/blob/main/Drone_Training.jpg)
-- Delivered comprehensive training on **Electromagnetism** to members of the **Ghana Armed Forces**, covering theory, field applications, and advanced concepts in electrical engineering.
-- As Head of Training & Chief Flight Instructor at **ATU Drone Centre**, I ensure safety, discipline, and excellence in drone operations.
 
 
 ---
