@@ -113,8 +113,8 @@ Oscilloscope, Logic Analyzer, JTAG/SWD Debuggers (J-Link, ST-Link)
 - **South Korea:** Drone & AI Safety Certification and Exchange Program  
 
 ---
---## 📊 GitHub Stats
-![Justice Nyarko GitHub Stats](https://github-readme-stats.vercel.app/api?username=jtc-justice&show_icons=true&theme=radical)
+<!--## 📊 GitHub Stats
+![Justice Nyarko GitHub Stats](https://github-readme-stats.vercel.app/api?username=jtc-justice&show_icons=true&theme=radical)-->
 
 ---
 
