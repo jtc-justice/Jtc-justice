@@ -23,10 +23,10 @@ I am an Electrical/Electronic Engineer, embedded systems enthusiast, and drone t
 | Embedded Systems | STM32, Nucleo boards, control systems, C/C++ |
 | Drones & Robotics | Flight control, sensor fusion, drone education |
 | Prototyping & Fabrication | CAD (SolidWorks, Fusion 360), 3D printing, full hardware build cycle |
-| Programming | Python, MATLAB, firmware-level coding |
+| Programming | Python, MATLAB |
 | Education & Leadership | Curriculum design, mentoring, technical communication |
 | Product Development | Robotics, automotive electronics, IoT integration |
-| Creativity & Storytelling | YouTube content, design thinking, product storytelling |
+| Creativity | YouTube content |
 
 ---
 
