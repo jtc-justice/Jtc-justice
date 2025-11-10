@@ -44,7 +44,7 @@ I am an Electrical/Electronic Engineer, embedded systems enthusiast, and drone t
 ## 🚀 Projects & Highlights
 
 ### 1. Drone Satellite for Air Quality Monitoring
-![Drone Satellite](https://via.placeholder.com/400x200.png?text=Drone+Satellite)
+![Drone Satellite](https://github.com/jtc-justice/Engineering_Projects/blob/main/photo_2024-11-20_14-30-55.jpg)
 - Combines UAV with CubeSat-like modules for real-time air quality data.
 - Embedded STM32 systems with sensor fusion for stable flight and accurate data collection.
 
