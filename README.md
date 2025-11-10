@@ -36,8 +36,8 @@ Oscilloscope, Logic Analyzer, JTAG/SWD Debuggers (J-Link, ST-Link)
 ## 🚀 Highlighted Projects
 
 ### 🛰️ 1. Drone Satellite for Air Quality Monitoring
-![Drone Satellite](https://github.com/jtc-justice/Engineering_Projects/blob/main/photo_2024-11-20_14-30-55.jpg)
-![Satellite](https://github.com/jtc-justice/Engineering_Projects/blob/main/IMG_2779.JPG)
+![Drone Satellite](https://github.com/jtc-justice/Engineering_Projects_/blob/main/Drone_Satellite.jpg)
+
 - A mobile, low-cost system for **real-time urban pollution monitoring** using embedded sensors and onboard computing.  
 - Built on **STM32** with **sensor fusion** and wireless data telemetry.
 
@@ -45,29 +45,29 @@ Oscilloscope, Logic Analyzer, JTAG/SWD Debuggers (J-Link, ST-Link)
 
 
 ### 🤖 2. Bot-Arm – Robotic Manipulator
-![Bot Arm 1](https://github.com/jtc-justice/Engineering_Projects/blob/main/photo_13_2025-11-07_16-17-52.jpg)
-![Bot Arm 2](https://github.com/jtc-justice/Engineering_Projects/blob/main/photo_14_2025-11-07_16-17-52.jpg)
+![Bot Arm 1](https://github.com/jtc-justice/Engineering_Projects_/blob/main/Robotic_Arm.jpg)
+
 - A **6-DOF robotic arm** for STEM education featuring inverse kinematics and custom controller firmware.  
 - Built with **3D printing**, **Arduino**, and **C++**.
 
 ---
 
 ### 🚦 3. Drone Traffic Light
-![Drone Traffic Light](https://github.com/jtc-justice/Engineering_Projects/blob/main/IMG_3624.JPG)
+![Drone Traffic Light](https://github.com/jtc-justice/Engineering_Projects_/blob/main/Drone_Traffic_light.jpg)
 - Smart aerial signaling system using drones for **dynamic traffic management and crowd control**.  
 - Embedded flight control and autonomous light sequencing.
 
 ---
 
 ### 💡 4. AI Lamp Project
-![AI Lamp](https://via.placeholder.com/400x200.png?text=AI+Lamp)
+![AI Lamp](https://github.com/jtc-justice/Engineering_Projects_/blob/main/AI_Lamp.jpg)
 - Interactive AI-driven lamp for adaptive lighting and automation.  
 - Integrated **voice control and proximity detection** for user comfort.
 
 ---
 
 ### 🏥 5. Medical Devices
-![Medical Device](https://via.placeholder.com/400x200.png?text=Medical+Device)
+![Medical Device](https://github.com/jtc-justice/Engineering_Projects_/blob/main/Medical_Devices.jpg)
 - **Portable blood warmer** and **electronic vaccine carrier** designed for reliable operation in low-resource settings.  
 - Focused on **energy efficiency, portability, and reliability**.
 
@@ -87,17 +87,22 @@ Oscilloscope, Logic Analyzer, JTAG/SWD Debuggers (J-Link, ST-Link)
 ---
 
 ### ✈️ 9. Drone Flight Training
+![JT Lab](https://github.com/jtc-justice/Engineering_Projects_/blob/main/Drone_Training.jpg)
 - Translating complex aviation theory into **actionable drone flight training**.  
 - As Head of Training & Chief Flight Instructor at **ATU Drone Centre**, I ensure safety, discipline, and excellence in drone operations.
 
 ---
 
-### 🧪 10. JT_Lab – Drone Innovation Lab
-![JT Lab](https://via.placeholder.com/400x200.png?text=JT+Lab)
-- A fully equipped laboratory for **drone research, education, and prototyping**.  
-- Home to projects in **aerial robotics, automation, and environmental systems**.
+### ✈️ 9. Electromagnetism Training — Ghana Armed Forces
+![JT Lab](https://github.com/jtc-justice/Engineering_Projects_/blob/main/Drone_Training.jpg)
+- Delivered comprehensive training on **Electromagnetism** to members of the **Ghana Armed Forces**, covering theory, field applications, and advanced concepts in electrical engineering.
+- As Head of Training & Chief Flight Instructor at **ATU Drone Centre**, I ensure safety, discipline, and excellence in drone operations.
+
 
 ---
+###                  JTC ROBOTICS
+![JT Lab](https://github.com/jtc-justice/Engineering_Projects_/blob/main/Background.jpg)
+
 
 ## 🏆 Achievements & Recognition
 - 🥉 **Bronze Medalist**, International Machine Learning & Big Data Competition – Russia (2023)  
