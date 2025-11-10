@@ -1,17 +1,10 @@
-# 👋 Hi there, I'm Justice 
+# 👋 Hi , Justice here
+---
 
-### **Embedded Systems & Robotics Engineer | Educator | Drone Technologist**
-> Driving real-world impact through intelligent embedded systems, robotics, and autonomous drone technology.
+I'm an Full Stack Hardware Engineer and Educator with a passion for architecting complete hardware/software solutions that solve critical problems in healthcare, environmental monitoring, and automation. My work spans from sensor-level to system integration and data analytics, with a focus on reliability and practical application.
 
 [![YouTube](https://img.shields.io/badge/YouTube-D40000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jtcrobotics)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justice.sk.nyarko@gmail.com)
-
----
-
-## 👨‍💻 About Me
-Hi, I'm **Justice** — an Embedded Systems Engineer and Educator with a passion for architecting complete hardware/software solutions that solve critical problems in **healthcare**, **environmental monitoring**, and **automation**.  
-
-My work spans from **sensor-level firmware** to **full system integration**, with a focus on reliability, functionality, and practical application.
 
 - Head of Training & Chief Flight Instructor at **Accra Technical University Drone Centre**
 - Experienced in **STM32, ESP32, Nucleo boards, and model-based design (Simulink)**
