@@ -67,7 +67,7 @@ Oscilloscope, Logic Analyzer, JTAG/SWD Debuggers (J-Link, ST-Link)
 ### 💡 4. AI Lamp Project
 ![AI Lamp](https://github.com/jtc-justice/Engineering_Projects_/blob/main/AI_Lamp.jpg)
 - Interactive AI-driven lamp for adaptive lighting and automation.  
-- Integrated **voice control and proximity detection** for user comfort.
+
 
 
 ---
