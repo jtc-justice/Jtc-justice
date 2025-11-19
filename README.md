@@ -14,7 +14,7 @@ I'm an Full Stack Hardware Engineer and Educator with a passion for architecting
 - Content Creator on YouTube:  **JTC-Robotics** - demystifying electronics and embedded systems for the next generation of African engineers.
 
 ---
-
+<!--
 ## 🧰 Technical Toolkit
 
 **Programming:**  
@@ -32,7 +32,7 @@ Oscilloscope, Logic Analyzer, JTAG/SWD Debuggers (J-Link, ST-Link)
 **Design & Fabrication:**  
 3D Modeling (SolidWorks, Fusion 360, Shapr3D), PCB Design 
 
-
+-->
 ---
 
 ## 🚀 Highlighted Projects
