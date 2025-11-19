@@ -1,7 +1,7 @@
 # 👋 Hi , Justice here
 ---
 
-I'm an Full Stack Hardware Engineer and Educator with a passion for architecting complete hardware/software solutions that solve critical problems in healthcare, environmental monitoring, and automation. My work spans from sensor-level to system integration and data analytics, with a focus on reliability and practical application.
+I'm an Full Stack Hardware Engineer and Educator with a passion for architecting complete hardware/software solutions that solve critical problems in healthcare, environmental monitoring, and unmanned aerial vehicles(Drones). My work spans from sensor-level to system integration and data analytics, with a focus on reliability and practical application.
 
 [![YouTube](https://img.shields.io/badge/YouTube-D40000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jtcrobotics)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justice.sk.nyarko@gmail.com)
