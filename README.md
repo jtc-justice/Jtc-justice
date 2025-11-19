@@ -58,7 +58,7 @@ Oscilloscope, Logic Analyzer, JTAG/SWD Debuggers (J-Link, ST-Link)
 ---
 
 
-### 🤖 3. Bot-Arm – Robotic Manipulator
+### 🤖 3. Bot-Arm – Educational Robotic Manipulator kit
 ![Bot Arm 1](https://github.com/jtc-justice/Engineering_Projects_/blob/main/Robotic_Arm.jpg)
 
 - A **6-DOF robotic arm** for STEM education featuring inverse kinematics and custom controller firmware.  
