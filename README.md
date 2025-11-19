@@ -5,14 +5,14 @@ I'm an Full Stack Hardware Engineer and Educator with a passion for architecting
 
 [![YouTube](https://img.shields.io/badge/YouTube-D40000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jtcrobotics)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justice.sk.nyarko@gmail.com)
-
+<!--
 - Head of Training & Chief Flight Instructor at **Accra Technical University Drone Centre**
 - Experienced in **STM32, ESP32, ATmega**
 - Skilled in **CAD, 3D printing, PCB design, and IoT system integration**
 - Founder of **JT_Lab**, a Mechatronics innovation lab dedicated to R&D (Research and Development).
 - Founder of **JTC Robotics** 
 - Content Creator on YouTube:  **JTC-Robotics** - demystifying electronics and embedded systems for the next generation of African engineers.
-
+-->
 ---
 <!--
 ## 🧰 Technical Toolkit
