@@ -57,7 +57,7 @@ Oscilloscope, Logic Analyzer, JTAG/SWD Debuggers (J-Link, ST-Link)
 
 ---
 
-### 3. Further Studies in Mechatronics in Italy with DeLorenzo S.p.a
+### 3. Further Studies in Mechatronics in Italy with DeLorenzo S.p.a in Italy 2019
 ![Drone Satellite](https://github.com/jtc-justice/Engineering_Projects_/blob/main/Italy.jpg)
 
 ---
