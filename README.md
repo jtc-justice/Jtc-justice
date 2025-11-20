@@ -48,7 +48,7 @@ Oscilloscope, Logic Analyzer, JTAG/SWD Debuggers (J-Link, ST-Link)
 ---
 
 
-### 🛰️ 2. Drone Satellite for Air Quality Monitoring
+### 🛰️ 2. Designed and built Drone Satellite for Air Quality Monitoring
 ![Drone Satellite](https://github.com/jtc-justice/Engineering_Projects_/blob/main/Drone_Satellite.jpg)
 
 - A mobile, low-cost system for **real-time urban pollution monitoring** using embedded sensors and onboard computing.  
