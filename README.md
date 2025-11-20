@@ -179,6 +179,26 @@ Date: 2022
 4. Design and Implementation of a Quadcopter Based on a Linear Quadratic Regulator (LQR)
 Journal of Digital Food, Energy & Water Systems, vol. 1, no. 1
 Date: 2020
+
+
+
+
+JTC - Robotics — Founder & Lead Embedded Systems Engineer
+(2020 – Present)
+
+Head of Training &Chief Flight Instructor, Accra Technical University – Drone Centre
+(2022 – Present)
+
+Supervise and train students and professionals in drone operation, maintenance, and embedded system integration for UAV applications.
+
+Council for Technical and Vocational Education and Training (CTVET), Ghana — Competitor Expert, Mechatronics
+(2022)
+
+Represented the institution at the National Skills Competition; trained students for robotics and mechatronics contests.
+
+Korea Transportation and Safety Authority (TS Mark Drone Training) — Participant & Awardee
+(2025)
+
 -->
 
 ---
