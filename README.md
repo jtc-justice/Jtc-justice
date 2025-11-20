@@ -142,7 +142,44 @@ Oscilloscope, Logic Analyzer, JTAG/SWD Debuggers (J-Link, ST-Link)
 
 ---
 <!--## 📊 GitHub Stats
-![Justice Nyarko GitHub Stats](https://github-readme-stats.vercel.app/api?username=jtc-justice&show_icons=true&theme=radical)-->
+![Justice Nyarko GitHub Stats](https://github-readme-stats.vercel.app/api?username=jtc-justice&show_icons=true&theme=radical)
+
+1st Place – Ghana National Skills Competition (Mechatronics) — 2018
+
+Drone Skill Test Excellence Badges, Korea Transportation and Safety Authority (South Korea — 2025)
+
+Bronze Medal, Represented Ghana at the High Technologies Championship (Neural Networks & Big Data Competition) in Russia — 2023
+
+Best Research Presentation, Applied Research Conference, Accra Technical University — 2022
+
+Best Innovative Student award at Vice-Chancellors of Technical University of Ghana Conference - 2022
+
+Competitor Expert (Mechatronics), CTVET National Skills Competition — 2022
+
+Accra Technical University, SRC Excellence Award , Innovative Student of the year — 2020
+
+Head of SRC; recognised with the Leadership Award for exceptional leadership and service — 2013
+
+
+PUBLICATION
+1. Real-Time Urban Air Quality Monitoring Using A Drone Satellite
+Book of Abstract from the proceedings of 13th GSA Research Seminar & Poster Presentation: “Harnessing AI for Scientific Advancement and Sustainable Development in Ghana”, CSIR-FORIG, Kumasi, Ghana, Page 5
+Date: 2024
+Authors: Nyarko, J., Acakpovi, A., Kutsanedzie, F., Ameko, E., Mensah, P., Paha, C., Amekugee, E.
+
+2. Design and Fabrication of an Embedded Drone-Satellite System for Air Quality Monitoring
+Presented at the Applied Research Conference, Accra Technical University, Ghana
+Date: July 2023
+
+3. Close-Range Terrestrial Photogrammetry and 3D Printing: A Potential Tool for Job Creation, Value Addition and the Improvement of Livelihoods in Ghana
+Authors: Ameko, E., Lee, C. S., Nyarko, J., Tagoe, M. N. A., Golightly, J.
+Applied Research Conference, Accra Technical University, Ghana
+Date: 2022
+
+4. Design and Implementation of a Quadcopter Based on a Linear Quadratic Regulator (LQR)
+Journal of Digital Food, Energy & Water Systems, vol. 1, no. 1
+Date: 2020
+-->
 
 ---
 
