@@ -48,11 +48,12 @@ Oscilloscope, Logic Analyzer, JTAG/SWD Debuggers (J-Link, ST-Link)
 ---
 
 
-### 🛰️ 2. Designed and built Drone Satellite for Air Quality Monitoring
+### 🛰️ 2. Drone Satellite for Air Quality Monitoring
 ![Drone Satellite](https://github.com/jtc-justice/Engineering_Projects_/blob/main/Drone_Satellite.jpg)
 
 - A mobile, low-cost system for **real-time urban pollution monitoring** using embedded sensors and onboard computing.  
 - Built on **STM32** with **sensor fusion** and wireless data telemetry (MQTT).
+
 
 
 ---
@@ -107,7 +108,18 @@ Oscilloscope, Logic Analyzer, JTAG/SWD Debuggers (J-Link, ST-Link)
 - Translating complex aviation theory into **actionable drone flight training**.  
 - As Head of Training & Chief Flight Instructor at **ATU Drone Centre**, I ensure safety, discipline, and excellence in drone operations.
 
+  
+---
 
+
+### 🛰️ 2. Best Innovative Student award at Vice-Chancellors of Technical University of Ghana Conference - 2022
+![Drone Satellite](https://github.com/jtc-justice/Engineering_Projects_/blob/main/JUSTICE_NYARKO_DRONE_SATELLITE_AWARD.jpg)
+
+
+---
+
+### 🛰️ 2. Accra Technical University Excellence Award - 2020
+![Drone Satellite](https://github.com/jtc-justice/Engineering_Projects_/blob/main/InnovativeStudent.jpeg)
 
 ---
 ###                  JTC ROBOTICS
