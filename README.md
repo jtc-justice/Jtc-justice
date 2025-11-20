@@ -41,7 +41,7 @@ Oscilloscope, Logic Analyzer, JTAG/SWD Debuggers (J-Link, ST-Link)
 ---
 
 
-### 🛰️ 1. 🥉 Bronze Medal, High Technologies Championship in Neural Network and Big Data, Russia — 2023
+### 🛰️ 1. 🥉Represented Ghana at the High Technologies Championship (Neural Networks & Big Data Competition) in Russia — 2023
 ![Drone Satellite](https://github.com/jtc-justice/Engineering_Projects_/blob/main/Russia.jpg)
 
  
